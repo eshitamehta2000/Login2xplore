@@ -21,8 +21,10 @@ The website allows college students to add their detials, which will be saved in
 * Nimble, Simple to use, In Memory, Real-time DBMS.
 
 ## Screebnshots
+
 ![Screenshot1](https://i.postimg.cc/sgchJrbd/ss1.png)
-![Screenshot2](https://i.postimg.cc/13J8qKNy/ss2.png)
+
+![Screenshot2](https://i.postimg.cc/yxZRhSCv/ss2.png)
 
 
 
